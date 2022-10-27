@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Apples &#8211; My WordPress</title>
-	<atom:link href="/danh-muc-san-pham/apples/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://nguyenquochau.github.io/wordpress/danh-muc-san-pham/apples/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquochau.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 25 Oct 2022 12:42:06 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,12 +24,12 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Fresh Banana</title>
-		<link>/san-pham/fresh-banana-6/</link>
-					<comments>/san-pham/fresh-banana-6/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana-6/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana-6/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 03:25:57 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=163</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=163</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -45,19 +45,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/fresh-banana-6/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana-6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fresh Banana</title>
-		<link>/san-pham/fresh-banana-5/</link>
-					<comments>/san-pham/fresh-banana-5/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana-5/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana-5/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 03:25:28 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=130</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=130</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -73,19 +73,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/fresh-banana-5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organic Tomato</title>
-		<link>/san-pham/organic-tomato-2/</link>
-					<comments>/san-pham/organic-tomato-2/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/organic-tomato-2/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/organic-tomato-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 03:12:35 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=106</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=106</guid>
 
 					<description><![CDATA[The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
 <div class="yith-wcwl-add-to-wishlist add-to-wishlist-1824 wishlist-fragment on-first-load" data-fragment-ref="1824" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;1824&#34;,&#34;parent_product_id&#34;:&#34;1824&#34;,&#34;product_type&#34;:&#34;variable&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
@@ -123,19 +123,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/organic-tomato-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/organic-tomato-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organic Tomato</title>
-		<link>/san-pham/organic-tomato/</link>
-					<comments>/san-pham/organic-tomato/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/organic-tomato/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/organic-tomato/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 03:11:43 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=72</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=72</guid>
 
 					<description><![CDATA[The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
 <div class="yith-wcwl-add-to-wishlist add-to-wishlist-1824 wishlist-fragment on-first-load" data-fragment-ref="1824" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;1824&#34;,&#34;parent_product_id&#34;:&#34;1824&#34;,&#34;product_type&#34;:&#34;variable&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
@@ -173,19 +173,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/organic-tomato/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/organic-tomato/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organic Carrot</title>
-		<link>/san-pham/organic-carrot-2/</link>
-					<comments>/san-pham/organic-carrot-2/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/organic-carrot-2/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/organic-carrot-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 03:01:34 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=71</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=71</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -204,19 +204,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/organic-carrot-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/organic-carrot-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organic Carrot</title>
-		<link>/san-pham/organic-carrot/</link>
-					<comments>/san-pham/organic-carrot/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/organic-carrot/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/organic-carrot/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 03:00:57 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=70</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=70</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -235,19 +235,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/organic-carrot/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/organic-carrot/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Strawberry</title>
-		<link>/san-pham/strawberry-2/</link>
-					<comments>/san-pham/strawberry-2/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/strawberry-2/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/strawberry-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 02:54:33 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=64</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=64</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -266,19 +266,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/strawberry-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/strawberry-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Strawberry</title>
-		<link>/san-pham/strawberry/</link>
-					<comments>/san-pham/strawberry/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/strawberry/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/strawberry/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 02:53:16 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=63</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=63</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -297,19 +297,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/strawberry/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/strawberry/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Red Apple</title>
-		<link>/san-pham/red-apple-2/</link>
-					<comments>/san-pham/red-apple-2/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/red-apple-2/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/red-apple-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 02:51:10 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=62</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=62</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -328,19 +328,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>Naturally sweet and delicious, our Plum Halves in Rice Syrup contains no added beet or cane sugar. Picked at the peak of ripeness and minimally processed, our organic fruits are perfect for baking and topping desserts with or delicious when eaten with ice cream or on its own. This autumnal, sticky fig and granola breakfast bowl is the perfect start to the day. Made with roasted figs warm from the oven, our creamy organic Kefir and a spoonful of our crunchy oat granola. A breakfast perfect for the week ahead.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/red-apple-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/red-apple-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Red Apple</title>
-		<link>/san-pham/red-apple/</link>
-					<comments>/san-pham/red-apple/#respond</comments>
+		<link>https://nguyenquochau.github.io/wordpress/san-pham/red-apple/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/san-pham/red-apple/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 02:50:40 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=61</guid>
+				<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?post_type=product&#038;p=61</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -359,7 +359,7 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 <p>Naturally sweet and delicious, our Plum Halves in Rice Syrup contains no added beet or cane sugar. Picked at the peak of ripeness and minimally processed, our organic fruits are perfect for baking and topping desserts with or delicious when eaten with ice cream or on its own. This autumnal, sticky fig and granola breakfast bowl is the perfect start to the day. Made with roasted figs warm from the oven, our creamy organic Kefir and a spoonful of our crunchy oat granola. A breakfast perfect for the week ahead.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/san-pham/red-apple/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/san-pham/red-apple/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Strawberry	</title>
-	<atom:link href="/san-pham/strawberry/feed/" rel="self" type="application/rss+xml" />
-	<link>/san-pham/strawberry/</link>
+	<atom:link href="https://nguyenquochau.github.io/wordpress/san-pham/strawberry/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquochau.github.io/wordpress/san-pham/strawberry/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 25 Oct 2022 12:40:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

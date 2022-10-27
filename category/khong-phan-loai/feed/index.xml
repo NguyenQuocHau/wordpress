@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Chưa phân loại &#8211; My WordPress</title>
-	<atom:link href="/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://nguyenquochau.github.io/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquochau.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 25 Oct 2022 01:57:48 +0000</lastBuildDate>
 	<language>vi</language>
@@ -24,20 +24,20 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>/2022/10/25/chao-moi-nguoi/</link>
-					<comments>/2022/10/25/chao-moi-nguoi/#comments</comments>
+		<link>https://nguyenquochau.github.io/wordpress/2022/10/25/chao-moi-nguoi/</link>
+					<comments>https://nguyenquochau.github.io/wordpress/2022/10/25/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[NguyenQuocHau]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 01:57:48 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://nguyenquochau.github.io/wordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/10/25/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenquochau.github.io/wordpress/2022/10/25/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

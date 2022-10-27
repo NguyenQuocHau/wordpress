@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Red Apple	</title>
-	<atom:link href="/san-pham/red-apple/feed/" rel="self" type="application/rss+xml" />
-	<link>/san-pham/red-apple/</link>
+	<atom:link href="https://nguyenquochau.github.io/wordpress/san-pham/red-apple/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquochau.github.io/wordpress/san-pham/red-apple/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 25 Oct 2022 12:42:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Fresh Banana	</title>
-	<atom:link href="/san-pham/fresh-banana/feed/" rel="self" type="application/rss+xml" />
-	<link>/san-pham/fresh-banana/</link>
+	<atom:link href="https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquochau.github.io/wordpress/san-pham/fresh-banana/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 25 Oct 2022 02:37:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

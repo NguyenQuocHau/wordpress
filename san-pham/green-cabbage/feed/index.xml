@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Green Cabbage	</title>
-	<atom:link href="/san-pham/green-cabbage/feed/" rel="self" type="application/rss+xml" />
-	<link>/san-pham/green-cabbage/</link>
+	<atom:link href="https://nguyenquochau.github.io/wordpress/san-pham/green-cabbage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquochau.github.io/wordpress/san-pham/green-cabbage/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 25 Oct 2022 12:31:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
