@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>New</title>
+	<title>New &#8211; Agrikon</title>
 	<atom:link href="https://nguyenquochau.github.io/wordpress/tu-khoa-san-pham/new/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquochau.github.io/wordpress</link>
 	<description></description>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://nguyenquochau.github.io/wordpress/wp-content/uploads/2022/10/loader-100x100.png</url>
-	<title>New</title>
+	<title>New &#8211; Agrikon</title>
 	<link>https://nguyenquochau.github.io/wordpress</link>
 	<width>32</width>
 	<height>32</height>
